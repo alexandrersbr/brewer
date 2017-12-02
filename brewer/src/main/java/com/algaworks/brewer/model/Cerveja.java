@@ -16,6 +16,7 @@ import javax.validation.constraints.Size;
 
 import org.hibernate.validator.constraints.NotBlank;
 
+
 @Entity
 @Table(name = "cerveja")
 public class Cerveja {
