@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.algaworks.brewer.model.Cerveja;
 import com.algaworks.brewer.model.Cliente;
 
 @Controller
