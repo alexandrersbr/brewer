@@ -1,4 +1,3 @@
-
 package com.algaworks.brewer.config;
 
 import javax.persistence.EntityManagerFactory;
